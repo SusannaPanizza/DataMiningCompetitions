@@ -1,0 +1,2 @@
+# DataMiningCompetitions
+Data Mining competitions
